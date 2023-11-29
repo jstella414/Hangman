@@ -13,7 +13,7 @@ const getRandomWord = () => {
 
   let randomWord = getRandomWord().split('')
 
-console.log(randomWord)
+//console.log(randomWord)
 
 
 //////////////////////
@@ -27,7 +27,7 @@ function initializeDisplay() {
   }
  let dashedWord = initializeDisplay();
 
-  console.log(displayString);
+  ///console.log(displayString);
   
   ////////////////////
 
